@@ -441,5 +441,4 @@ git push -u origin main
 
 ## 👤 Author
 Built for technical assessment by Roshan Pandit
-#   W e b s i t e - A n a l y t i c s - E v e n t s - C a p t u r e -  
- 
+#
